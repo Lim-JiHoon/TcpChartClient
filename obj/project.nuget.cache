@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "8JZgUhFLbkcNzX2XRF/wcVLANllN9PelcqlXN4ErMBTafoVt8ZUHXhR00qebE1f8ORGBlMVIl67E1cAPb6zjIA==",
+  "success": false,
+  "projectFilePath": "C:\\c#\\Chat3\\TcpChatClient\\TcpChatClient\\TcpChatClient.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "'C:\\c#\\Chat3\\LJHLib\\TcpChatLib.csproj' 프로젝트를 찾을 수 없습니다. 프로젝트 참조가 올바르고 프로젝트 파일이 있는지 확인하세요.",
+      "libraryId": "C:\\c#\\Chat3\\LJHLib\\TcpChatLib.csproj",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
